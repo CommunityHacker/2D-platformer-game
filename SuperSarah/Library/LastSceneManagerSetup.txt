@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Levels/Main Manu.unity
+  isLoaded: 1
+  isActive: 1
